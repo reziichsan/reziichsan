@@ -44,11 +44,41 @@ An **Informatics Graduate** from Telkom University with a strong passion for **S
 
 ### 📊 GitHub Stats
 
-![Rezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Rezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=reziichsan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reziichsan&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/rezichsannurarsyi](https://www.linkedin.com/in/rezichsannurarsyi)
 - **Email:** reziichsannurarsyi@gmail.com *(sesuaikan dengan email Anda)*
+
+<div align="center">
+
+<!-- Header Animasi Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Rezi%20Ichsan%20Nur%20Arsy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Graduate%20|%20Software%20Engineer%20|%20Game%20Dev&descAlignY=62&descScale=18" width="100%"/>
+
+<!-- Retro Game Animation (Arcade Typing) -->
+<a href="https://github.com/rezichsannurarsyi">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F70D1A&center=true&vCenter=true&width=500&height=50&lines=GAME+OVER%3F+NO%2C+JUST+STARTING!;PRESS+START+TO+HIRE...;BUILDING+SCALABLE+SYSTEMS...;LEVEL+UP+YOUR+TECH+STACK!" alt="Retro Arcade Typing" />
+</a>
+
+<!-- Pac-Man Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdeaddon/mdeaddon/master/assets/pacman.gif" width="380" alt="Pacman Animation" />
+</p>
+
+---
+
+</div>
+
+### 🎮 About The Player
+
+```text
+  ___________________________________________________________
+ /                                                           \
+|  [+] Class: Informatics Graduate (Telkom University)       |
+|  [+] Specialty: Software Engineering & Game Logic          |
+|  [+] Status: Open for Software Engineer / IT Officer Roles |
+|  [+] Location: Indonesia                                   |
+ \___________________________________________________________/
