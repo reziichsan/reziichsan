@@ -24,8 +24,7 @@
 
 ## 🧭 Tentang Saya
 
-> Mahasiswa Informatika di persimpangan **IT Support**, **Machine Learning**, dan **UI/UX Design** — terbiasa menjaga sistem tetap berjalan, membangun model yang bekerja dengan baik, dan merancang pengalaman yang enak dipakai.
-
+> Fresh Graduate Sarjana Informatika dari Telkom University yang memiliki minat dan keahlian mendalam di bidang Software Engineering, Pengembangan Game, Operasional IT (IT-OPS), dan Kecerdasan Buatan (AI/NLP). 
 <table>
 <tr>
 <td width="50%" valign="top">
