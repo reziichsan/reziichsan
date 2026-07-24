@@ -1,0 +1,65 @@
+<svg width="100%" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .dot { fill: #FFD700; }
+      .maze-text { font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <!-- Background maze bar -->
+  <rect x="0" y="0" width="900" height="100" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="10" y="10" width="880" height="80" rx="8" fill="none" stroke="#1f6feb" stroke-width="2" stroke-dasharray="6,4" opacity="0.35"/>
+
+  <!-- Score text -->
+  <text x="20" y="22" class="maze-text" font-size="12" fill="#58a6ff">1UP</text>
+  <text x="20" y="36" class="maze-text" font-size="12" fill="#f0f6fc">88620</text>
+  <text x="800" y="22" class="maze-text" font-size="12" fill="#58a6ff">HI-SCORE</text>
+
+  <!-- Dots -->
+  <g>
+    <circle class="dot" cx="80"  cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.079;0.089;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="140" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.158;0.168;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="200" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.237;0.247;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="260" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.316;0.326;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="320" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.395;0.405;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="380" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.474;0.484;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="440" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.553;0.563;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="500" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.632;0.642;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="560" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.711;0.721;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="620" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.789;0.799;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="680" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.868;0.878;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="dot" cx="740" cy="55" r="4"><animate attributeName="opacity" keyTimes="0;0.947;0.957;1" values="1;1;0;0" dur="6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Ghost 1 (Blinky - red), trailing behind -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="20,55;20,55;780,55;20,55" keyTimes="0;0.02;1;1" dur="6s" begin="1s" repeatCount="indefinite"/>
+    <path d="M -14,4 A14,14 0 1 1 14,4 L14,16 L9,11 L4,16 L0,11 L-4,16 L-9,11 L-14,16 Z" fill="#FF0000"/>
+    <circle cx="-6" cy="0" r="4" fill="white"/>
+    <circle cx="6" cy="0" r="4" fill="white"/>
+    <circle cx="-5" cy="0" r="2" fill="#000B33"/>
+    <circle cx="7" cy="0" r="2" fill="#000B33"/>
+  </g>
+
+  <!-- Ghost 2 (Pinky), trailing further behind -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="20,55;20,55;780,55;20,55" keyTimes="0;0.06;1;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+    <path d="M -14,4 A14,14 0 1 1 14,4 L14,16 L9,11 L4,16 L0,11 L-4,16 L-9,11 L-14,16 Z" fill="#FFB8FF"/>
+    <circle cx="-6" cy="0" r="4" fill="white"/>
+    <circle cx="6" cy="0" r="4" fill="white"/>
+    <circle cx="-5" cy="0" r="2" fill="#000B33"/>
+    <circle cx="7" cy="0" r="2" fill="#000B33"/>
+  </g>
+
+  <!-- Pacman -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="20,55" to="780,55" dur="6s" repeatCount="indefinite"/>
+    <path fill="#FFD700">
+      <animate attributeName="d" dur="0.35s" repeatCount="indefinite"
+        values="
+        M0,0 L20,-14 A20,20 0 1,0 20,14 Z;
+        M0,0 L20,-2 A20,20 0 1,0 20,2 Z;
+        M0,0 L20,-14 A20,20 0 1,0 20,14 Z"/>
+    </path>
+  </g>
+</svg>
