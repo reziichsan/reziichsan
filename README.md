@@ -32,10 +32,8 @@
 **📍 Profil Singkat**
 | | |
 |---|---|
-| 🎓 Kampus | Telkom University — S1 Informatika |
-| 📅 Lulus | 06 Mei 2026 |
+| 🎓 Kampus | Telkom University Bandung — S1 Informatika |
 | 📊 IPK | 3.01 / 4.00 |
-| 🌆 Lokasi | Bekasi, Indonesia |
 | 💼 Fokus Karier | IT Support & System Specialist |
 
 </td>
