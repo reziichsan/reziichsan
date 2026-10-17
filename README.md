@@ -1,161 +1,163 @@
-<div align="center">
+ <div align="center">
 
+# Rezi Ichsannur Arsyi
 
+### Informatics Graduate | IT Support | Python Development | Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=IT+Support+%26+System+Troubleshooting;Machine+Learning+%2F+NLP+Enthusiast;UI%2FUX+Design+with+Figma;Full-Stack+Web+Development;Bachelor+of+Informatics+%40+Telkom+University" alt="Typing SVG"/>
+Building practical technology solutions through software development, system troubleshooting, and applied machine learning.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Support+%26+Troubleshooting;Python+%26+Django+Projects;Machine+Learning+%26+NLP;UI%2FUX+Design+with+Figma" alt="Areas of interest" />
 
 <br/>
 
-<a href="https://linkedin.com/in/reziichsannurarsyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:reziichsan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://reziichsan.github.io/My-Portofolio"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/reziichsan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/reziichsannurarsyi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:reziichsan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://reziichsan.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
-<br/>
+---
 
-<!-- Pacman animation strip -->
+## About Me
+
+I am an Informatics graduate from **Telkom University** with a technical foundation in Python programming, web development, and IT troubleshooting.
+
+My experience includes working with Python and Django, developing interactive systems for Roblox, and conducting undergraduate research in natural language processing. I am particularly interested in IT support, system administration, and software development, while continuing to explore machine learning applications.
+
+I value practical problem-solving, continuous learning, and building projects that demonstrate real technical skills.
+
+**Currently interested in:** Entry-level opportunities in IT Support, Technical Support, and Python/Web Development.
+
+## Technical Skills
+
 <div align="center">
-<img src="./pacman-animation.svg" width="100%" alt="pacman eating dots animation"/>
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,figma,git,github,vscode,windows,linux&perline=6" alt="Technical skills and tools" />
+
 </div>
 
-<br/>
-
-## 🧭 Tentang Saya
-
->  Sarjana Informatika dari Telkom University yang memiliki minat dan keahlian mendalam di bidang Software Engineering, Pengembangan Game, Operasional IT (IT-OPS), dan Kecerdasan Buatan (AI/NLP). 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📍 Profil Singkat**
-| | |
+| Area | Skills |
 |---|---|
-| 🎓 Kampus | Telkom University Bandung — S1 Informatika |
-| 📊 IPK | 3.01 / 4.00 |
-| 💼 Fokus Karier | IT Support & System Specialist |
+| Programming | Python, JavaScript fundamentals, HTML, CSS |
+| Web Development | Django, basic front-end development |
+| IT Support | Hardware and software troubleshooting, Windows/Linux installation, basic networking, LAN and Wi-Fi configuration |
+| Machine Learning | Natural language processing, text classification, transformer-based models |
+| UI/UX Design | Figma, interface design, prototyping |
+| Development Tools | Git, GitHub, Visual Studio Code |
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Multilingual Hoax Detection
+
+An undergraduate research project investigating transformer-based models for fake-news classification.
+
+- Compared IndoBERT, multilingual BERT (mBERT), and XLM-RoBERTa.
+- Explored multilingual datasets and Indonesian-translated data.
+- IndoBERT achieved **88.62% accuracy** in the reported evaluation.
+
+**Technologies:** Python, IndoBERT, mBERT, XLM-RoBERTa
+
+<a href="https://github.com/reziichsan/HoaxDetection">View Repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ Fun Facts**
-- 🎮 Mengelola server Roblox live dengan **1.000+** pemain bersamaan
-- 🧠 Model NLP-nya mencapai akurasi **88.62%**
-- 🎨 Merancang ulang UI resmi JKT48 secara mandiri
-- 🤖 Membangun sistem helpdesk IT dengan AI (Gemini API)
+### IT Ticketing System
+
+A helpdesk prototype exploring AI-assisted issue categorization and ticket prioritization.
+
+- Developed using Python and Django.
+- Integrates Gemini API functionality to explore ticket urgency assessment.
+- Focuses on simplifying IT support request handling.
+
+**Technologies:** Python, Django, Gemini API
+
+<a href="https://github.com/reziichsan/automated-it-ticketing-system">View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Eternia Forest
+
+A multiplayer exploration game developed on Roblox, featuring an expedition-themed environment and gameplay progression.
+
+- Implemented gameplay systems and supporting user interfaces.
+- Includes checkpoints, leaderboards, and progression features.
+- Recorded more than **355,000 visits** according to the project's reported statistics.
+
+**Technologies:** Roblox Studio, Luau
+
+<a href="https://www.roblox.com/games/115395112112752/Eternia-Forest">View Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Additional Interests
+
+Beyond my main projects, I am interested in interface design, practical automation, system configuration, and building technology prototypes.
+
+I use personal projects to strengthen my technical foundation, explore new tools, and improve my understanding of how software systems work.
+
+<a href="https://reziichsan.github.io/Portfolio">Explore My Portfolio</a>
 
 </td>
 </tr>
 </table>
 
-<br/>
+## Education
 
-## 🛠️ Tech Stack
+**Bachelor of Informatics**  
+Telkom University, Bandung, Indonesia
+
+Undergraduate thesis: *Hoax Detection Using Multilingual Transformers and IndoBERT.*
+
+Research focused on applying transformer-based language models to text classification and fake-news detection.
+
+## Certifications
+
+- Scientific Computing with Python — freeCodeCamp, 2025
+- Responsive Web Design — freeCodeCamp, 2024
+- Badminton Pose Time Series Classification Using LSTM — Telkom University, 2025
+
+## GitHub Overview
 
 <div align="center">
 
-**Languages & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,django,nodejs,express,tailwind" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=reziichsan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-**Data / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sqlite" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/IndoBERT-000000?style=flat-square"/>
-
-**Tools & Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,windows" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reziichsan&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used programming languages" />
 
 </div>
 
-<br/>
-
-## 🚀 Proyek Unggulan
-
-<table>
-<tr>
-<th align="left" width="20%">Proyek</th>
-<th align="left" width="45%">Deskripsi</th>
-<th align="left" width="35%">Tech</th>
-</tr>
-
-<tr>
-<td>🕵️ <b>Multilingual Hoax<br/>Detection</b><br/><sub>Final Thesis</sub></td>
-<td>Sistem deteksi hoax otomatis lintas 5 bahasa (EN, HI, ID, SW, VI), dengan 2 skenario eksperimen. Akurasi puncak <b>88.62%</b> pada model IndoBERT untuk dataset gabungan hasil translasi.</td>
-<td><img src="https://img.shields.io/badge/-IndoBERT-yellow?style=flat-square"/><img src="https://img.shields.io/badge/-mBERT-blue?style=flat-square"/><img src="https://img.shields.io/badge/-XLM--R-orange?style=flat-square"/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-</tr>
-
-<tr>
-<td>🎫 <b>IT-Ticketing<br/>Tool</b><br/><sub>Personal Project</sub></td>
-<td>Sistem helpdesk IT full-stack dengan kategorisasi & scoring urgensi tiket otomatis via Gemini API. Backend ringan dengan persistensi database lokal yang aman.</td>
-<td><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
-</tr>
-
-<tr>
-<td>🎨 <b>JKT48 Website<br/>UI Redesign</b><br/><sub>Personal Project</sub></td>
-<td>Redesign UI/UX halaman resmi berbasis analisis usability. Prototipe web interaktif high-fidelity dengan design system dan carousel dinamis.</td>
-<td><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/-UI%2FUX-2C5364?style=flat-square"/></td>
-</tr>
-
-<tr>
-<td>🕹️ <b>Eternia Forest</b><br/><sub>Roblox Game</sub></td>
-<td>Game multiplayer yang dikembangkan bersama tim kecil, meraih 300K+ visits dan 1.000 pemain aktif bersamaan di puncak aktivitas.</td>
-<td><img src="https://img.shields.io/badge/-Roblox%20Studio-000000?style=flat-square&logo=roblox&logoColor=white"/><img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></td>
-</tr>
-
-</table>
-
-<br/>
-
-## 🎓 Pendidikan
-
-**Bachelor of Informatics** — Telkom University, Bandung
-*Terakreditasi Unggul (BAN-PT No. 164/SK/LAM-INFOKOM/Ak/S/VIII/2025)*
-
-| Tahap | SKS Lulus | IPK |
-|---|---|---|
-| Tingkat I | 47 | 3.24 |
-| Tingkat II | 28 | 2.29 |
-| Tingkat III | 39 | 3.15 |
-| Tingkat IV | 30 | 3.15 |
-| **Total** | **144** | **3.01** |
-
-📌 **Tugas Akhir:** *Deteksi Hoax Menggunakan Model Multilingual Transformers dan IndoBERT* — mengembangkan framework NLP berbasis IndoBERT, mBERT, dan XLM-R untuk identifikasi berita palsu lintas bahasa.
-
-<br/>
-
-## 📜 Sertifikasi
-
-- 🐍 Scientific Computing with Python — freeCodeCamp (2025)
-- 🌐 Responsive Web Design — freeCodeCamp (2024)
-- 🏸 Badminton Pose Time Series Classification using LSTM — Telkom University (2025)
-
-<br/>
-
-## 📊 GitHub Stats
-
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reziichsan&theme=github-dark-blue&hide_border=true" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reziichsan&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reziichsan&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%"/>
-</div>
+## Contact
 
-<br/>
+I am open to learning opportunities, professional collaboration, and entry-level roles where I can contribute while continuing to develop my technical skills.
 
 <div align="center">
 
-## 📫 Mari Terhubung
+<a href="https://www.linkedin.com/in/reziichsannurarsyi/">LinkedIn</a> ·
+<a href="mailto:reziichsan@gmail.com">Email</a> ·
+<a href="https://github.com/reziichsan">GitHub</a> ·
+<a href="https://reziichsan.github.io/Portfolio">Portfolio</a>
 
-Terbuka untuk peluang magang / entry-level di bidang **IT Support**, **System Administration**, atau **Data/ML**.
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=reziichsan&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=reziichsan&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+*Designed and maintained by Rezi Ichsannur Arsyi.*
 
 </div>
